@@ -1,0 +1,23 @@
+{
+  "name": "crazy-promise",
+  "version": "1.0.0",
+  "description": "A promise that resolves with random delays for testing purposes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/crazy-promise.git"
+  },
+  "keywords": [
+    "crazy",
+    "promise"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "~2.0.0",
+    "inherit": "nathan7/inherit"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}

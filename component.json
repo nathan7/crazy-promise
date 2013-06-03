@@ -1,0 +1,19 @@
+{
+  "name": "crazy-promise",
+  "repo": "nathan7/crazy-promise",
+  "description": "A promise that resolves with random delays for testing purposes.",
+  "version": "1.0.0",
+  "keywords": [
+    "crazy",
+    "promise"
+  ],
+  "dependencies": {
+    "then/promise": "*",
+    "component/inherit": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
