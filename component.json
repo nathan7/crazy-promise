@@ -2,7 +2,7 @@
   "name": "crazy-promise",
   "repo": "nathan7/crazy-promise",
   "description": "A promise that resolves with random delays for testing purposes.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "crazy",
     "promise"

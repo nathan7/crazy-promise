@@ -1,6 +1,6 @@
 {
   "name": "crazy-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A promise that resolves with random delays for testing purposes.",
   "main": "index.js",
   "repository": {
