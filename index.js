@@ -19,7 +19,7 @@ function CrazyPromise(fn) {
 }
 
 CrazyPromise.from = function(value) {
-  return new Promise(function(resolve, reject) {
+  return new CrazyPromise(function(resolve, reject) {
     resolve(value)
   })
 }
